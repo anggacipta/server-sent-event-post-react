@@ -1,4 +1,4 @@
-# Simple Server Sent Event
+# Server Sent Event Post
 Example of SSE(Server Sent Event) in website. Different of this version is using POST method.
 
 ## How to run:
